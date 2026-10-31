@@ -1,0 +1,10 @@
+print("This is text (called a string)")
+print(42)
+print("42")
+print(3.14)
+
+print("\nNotice the differences:")
+print("Text must be in quotes:", "Hello")
+print("Numbers don't need quotes:", 123)
+print("Mathematical operations work with numbers:", 10 + 5)
+print("Text operations work with strings:", "Hello" + " " + "World")
